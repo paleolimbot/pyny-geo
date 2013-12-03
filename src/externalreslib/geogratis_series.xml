@@ -1,0 +1,197 @@
+<select id="selSeries" style="width:550px;" aria-describedby="h5SeriesCollection" data-role="none">
+<option value="0" title="Select one of the following ..." style="font-weight: bold;">Select one of the following ...</option>
+<option value="1996-population-ecumene-census-data-canada" title="1996 Population (Ecumene) Census Data, Canada">1996 Population (Ecumene) Census Data, Canada</option>
+<option value="a-complete-orthorectified-landsat-7-mosaic-of-the-canadian-arctic-archipelago" title="A Complete Orthorectified Landsat 7 Mosaic of the Canadian Arctic Archipelago">A Complete Orthorectified Landsat 7 Mosaic of the Canadian Arctic Archipelago</option>
+<option value="advances-in-geosciences" title="Advances in Geosciences">Advances in Geosciences</option>
+<option value="advances-in-space-research" title="Advances in Space Research">Advances in Space Research</option>
+<option value="agricultural-ecumene-census-division-boundary-file-for-the-2001-census-of-agriculture-canada" title="Agricultural Ecumene Census Division Boundary File for the 2001 Census of Agriculture, Canada">Agricultural Ecumene Census Division Boundary File for the 2001 Census of Agriculture, ...</option>
+<option value="a-guide-to-the-classification-of-land-use-for-the-canada-land-inventory-lands-directorate-environment-canada-1968" title="A Guide to the Classification of Land Use for the Canada Land Inventory, Lands Directorate, Environment Canada, 1968.">A Guide to the Classification of Land Use for the Canada Land Inventory, Lands Directorate, ...</option>
+<option value="american-society-for-testing-and-materials-special-technical-publication" title="American Society for Testing and Materials Special Technical Publication">American Society for Testing and Materials Special Technical Publication</option>
+<option value="asian-journal-of-geoinformatics" title="Asian Journal of Geoinformatics">Asian Journal of Geoinformatics</option>
+<option value="atlas-of-canada-11000000-national-frameworks-data" title="Atlas of Canada, 1:1,000,000 National Frameworks Data">Atlas of Canada, 1:1,000,000 National Frameworks Data</option>
+<option value="atlas-of-canada-1st-edition" title="Atlas of Canada, 1st Edition">Atlas of Canada, 1st Edition</option>
+<option value="atlas-of-canada-2nd-edition" title="Atlas of Canada, 2nd Edition">Atlas of Canada, 2nd Edition</option>
+<option value="atlas-of-canada-3rd-edition" title="Atlas of Canada, 3rd Edition">Atlas of Canada, 3rd Edition</option>
+<option value="atlas-of-canada-4th-edition" title="Atlas of Canada, 4th Edition">Atlas of Canada, 4th Edition</option>
+<option value="atlas-of-canada-5th-edition" title="Atlas of Canada, 5th Edition">Atlas of Canada, 5th Edition</option>
+<option value="atlas-of-canada-6th-edition" title="Atlas of Canada, 6th Edition">Atlas of Canada, 6th Edition</option>
+<option value="atlas-of-canada-base-maps" title="Atlas of Canada, Base Maps">Atlas of Canada, Base Maps</option>
+<option value="atlas-of-canada-federal-elections" title="Atlas of Canada, Federal Elections">Atlas of Canada, Federal Elections</option>
+<option value="atlas-of-canada-history" title="Atlas of Canada, History">Atlas of Canada, History</option>
+<option value="atlas-of-canada-national-parks" title="Atlas of Canada, National Parks">Atlas of Canada, National Parks</option>
+<option value="atlas-of-canada-national-scale-data-115000000" title="Atlas of Canada, National Scale Data 1:15,000,000">Atlas of Canada, National Scale Data 1:15,000,000</option>
+<option value="atlas-of-canada-national-scale-data-15000000" title="Atlas of Canada, National Scale Data 1:5,000,000">Atlas of Canada, National Scale Data 1:5,000,000</option>
+<option value="atlas-of-canada-north-circumpolar-region-map" title="Atlas of Canada, North Circumpolar Region Map">Atlas of Canada, North Circumpolar Region Map</option>
+<option value="atlas-of-canada-northern-geodatabase" title="Atlas of Canada, Northern Geodatabase">Atlas of Canada, Northern Geodatabase</option>
+<option value="atlas-of-canada-poster" title="Atlas of Canada, Poster">Atlas of Canada, Poster</option>
+<option value="atlas-of-canada-reference" title="Atlas of Canada, Reference">Atlas of Canada, Reference</option>
+<option value="atlas-of-canada-various" title="Atlas of Canada, Various">Atlas of Canada, Various</option>
+<option value="avhrr-land-cover-digital-data" title="AVHRR Land Cover Digital Data">AVHRR Land Cover Digital Data</option>
+<option value="borehole-geophysical-logs-in-surficial-sediments-of-canada" title="Borehole Geophysical Logs in Surficial Sediments of Canada">Borehole Geophysical Logs in Surficial Sediments of Canada</option>
+<option value="bulletin-of-the-seismological-society-of-america" title="Bulletin of the Seismological Society of America">Bulletin of the Seismological Society of America</option>
+<option value="canada-1-km-10-day-spotvegetation-composites-for-growing-season-1998-2004" title="Canada 1-km, 10-day, SPOT/VEGETATION composites for growing season 1998-2004">Canada 1-km, 10-day, SPOT/VEGETATION composites for growing season 1998-2004</option>
+<option value="canada-centre-for-remote-sensing-technical-note" title="Canada Centre for Remote Sensing, Technical Note">Canada Centre for Remote Sensing, Technical Note</option>
+<option value="canada-centre-for-topographic-information-series" title="Canada, Centre for Topographic Information Series">Canada, Centre for Topographic Information Series</option>
+<option value="canada-department-of-mines-mines-branch-map" title="Canada Department of Mines, Mines Branch, Map">Canada Department of Mines, Mines Branch, Map</option>
+<option value="canada-land-inventory-11000000" title="Canada Land Inventory (1:1,000,000)">Canada Land Inventory (1:1,000,000)</option>
+<option value="canada-land-inventory-1250000-land-capability-for-ungulates" title="Canada Land Inventory (1:250,000) - Land Capability for Ungulates">Canada Land Inventory (1:250,000) - Land Capability for Ungulates</option>
+<option value="canada-land-inventory-1250000-soil-capability-for-waterfowl" title="Canada Land Inventory (1:250,000) - Soil Capability for Waterfowl">Canada Land Inventory (1:250,000) - Soil Capability for Waterfowl</option>
+<option value="canada-land-inventory-1250000-sport-fish-capability" title="Canada Land Inventory (1:250,000) - Sport Fish Capability">Canada Land Inventory (1:250,000) - Sport Fish Capability</option>
+<option value="canada-land-inventory-150000-city-land-capability-for-agriculture" title="Canada Land Inventory (1:50,000) - City Land Capability for Agriculture">Canada Land Inventory (1:50,000) - City Land Capability for Agriculture</option>
+<option value="canada-land-inventory-150000-city-land-capability-for-recreation" title="Canada Land Inventory (1:50,000) - City Land Capability for Recreation">Canada Land Inventory (1:50,000) - City Land Capability for Recreation</option>
+<option value="canada-land-inventory-150000-land-capability-for-agriculture" title="Canada Land Inventory (1:50,000) - Land Capability for Agriculture">Canada Land Inventory (1:50,000) - Land Capability for Agriculture</option>
+<option value="canada-land-inventory-150000-land-capability-for-recreation" title="Canada Land Inventory (1:50,000) - Land Capability For Recreation">Canada Land Inventory (1:50,000) - Land Capability For Recreation</option>
+<option value="canada-land-inventory-150000-land-use-circa-1966" title="Canada Land Inventory (1:50,000) - Land Use (circa 1966)">Canada Land Inventory (1:50,000) - Land Use (circa 1966)</option>
+<option value="canada-land-inventory-soil-capability-classification-for-agriculture" title="Canada Land Inventory - Soil Capability Classification for Agriculture">Canada Land Inventory - Soil Capability Classification for Agriculture</option>
+<option value="canada-land-inventory-soil-capability-classification-for-forestry" title="Canada Land Inventory - Soil Capability Classification for Forestry">Canada Land Inventory - Soil Capability Classification for Forestry</option>
+<option value="canada-land-use-monitoring-program-clump-prime-resource-lands" title="Canada Land Use Monitoring Program (CLUMP), Prime Resource Lands">Canada Land Use Monitoring Program (CLUMP), Prime Resource Lands</option>
+<option value="canada-land-use-monitoring-program-clump-urban-land-use-1966-to-1986" title="Canada Land Use Monitoring Program (CLUMP), Urban Land Use - 1966 to 1986">Canada Land Use Monitoring Program (CLUMP), Urban Land Use - 1966 to 1986</option>
+<option value="canada-mines-branch-report" title="Canada Mines Branch, Report">Canada Mines Branch, Report</option>
+<option value="canada-national-topographic-series-maps" title="Canada, National Topographic Series Maps">Canada, National Topographic Series Maps</option>
+<option value="canadas-ecosystems" title="Canada's Ecosystems">Canada's Ecosystems</option>
+<option value="canada-surveys-and-mapping-branch-a-series-map" title="Canada, Surveys and Mapping Branch, \"A\" Series Map">Canada, Surveys and Mapping Branch, "A" Series Map</option>
+<option value="canada-surveys-and-mapping-branch-mcr-series" title="Canada, Surveys and Mapping Branch, MCR Series">Canada, Surveys and Mapping Branch, MCR Series</option>
+<option value="canadian-diatom-database" title="Canadian Diatom Database">Canadian Diatom Database</option>
+<option value="canadian-digital-elevation-data" title="Canadian Digital Elevation Data">Canadian Digital Elevation Data</option>
+<option value="canadian-geospatial-data-infrastructure-information-product" title="Canadian Geospatial Data Infrastructure, Information Product">Canadian Geospatial Data Infrastructure, Information Product</option>
+<option value="canadian-geotechnical-journal" title="Canadian Geotechnical Journal">Canadian Geotechnical Journal</option>
+<option value="canadian-hazard-information-service-internal-report" title="Canadian Hazard Information Service Internal Report">Canadian Hazard Information Service Internal Report</option>
+<option value="canadian-journal-of-earth-sciences" title="Canadian Journal of Earth Sciences">Canadian Journal of Earth Sciences</option>
+<option value="canadian-journal-of-remote-sensing" title="Canadian Journal of Remote Sensing">Canadian Journal of Remote Sensing</option>
+<option value="canadian-peatland-database" title="Canadian Peatland Database">Canadian Peatland Database</option>
+<option value="canadian-permafrost-thickness-geological-survey-of-canada" title="Canadian Permafrost Thickness, Geological Survey of Canada">Canadian Permafrost Thickness, Geological Survey of Canada</option>
+<option value="canimage-ortho-images-landsat-7-du-canada-150-000" title="CanImage - Ortho-images Landsat 7 du Canada, 1/50 000">CanImage - Ortho-images Landsat 7 du Canada, 1/50 000</option>
+<option value="canmatrix-georeferenced" title="CanMatrix - georeferenced">CanMatrix - georeferenced</option>
+<option value="canmatrix-print-ready" title="CanMatrix - Print Ready">CanMatrix - Print Ready</option>
+<option value="cantopo" title="CanTopo">CanTopo</option>
+<option value="canvec" title="CanVec">CanVec</option>
+<option value="circa-2000-northern-land-cover-of-canada" title="Circa-2000 Northern Land Cover Of Canada">Circa-2000 Northern Land Cover Of Canada</option>
+<option value="cv-580-airborne-sar-canada" title="CV - 580 Airborne-SAR, Canada">CV - 580 Airborne-SAR, Canada</option>
+<option value="daily-canadian-snow-and-inland-ice-cover-synthesis-maps" title="Daily Canadian Snow and Inland Ice Cover Synthesis Maps">Daily Canadian Snow and Inland Ice Cover Synthesis Maps</option>
+<option value="dominion-observatory-gravity-map-series" title="Dominion Observatory, Gravity Map Series">Dominion Observatory, Gravity Map Series</option>
+<option value="earth-observation-imagery" title="Earth Observation Imagery">Earth Observation Imagery</option>
+<option value="earth-observation-magazine" title="Earth Observation Magazine">Earth Observation Magazine</option>
+<option value="earth-physics-branch-gravity-map-series" title="Earth Physics Branch, Gravity Map Series">Earth Physics Branch, Gravity Map Series</option>
+<option value="earth-physics-branch-open-file" title="Earth Physics Branch, Open File">Earth Physics Branch, Open File</option>
+<option value="earth-sciences-sector-annual-review" title="Earth Sciences Sector, Annual Review">Earth Sciences Sector, Annual Review</option>
+<option value="earth-sciences-sector-business-plan" title="Earth Sciences Sector, Business Plan">Earth Sciences Sector, Business Plan</option>
+<option value="earth-sciences-sector-general-information-product" title="Earth Sciences Sector, General Information Product">Earth Sciences Sector, General Information Product</option>
+<option value="east-central-labrador-ecological-land-survey-canada" title="East-Central Labrador Ecological Land Survey, Canada">East-Central Labrador Ecological Land Survey, Canada</option>
+<option value="european-space-agency-special-publication" title="European Space Agency, Special Publication">European Space Agency, Special Publication</option>
+<option value="federal-electoral-districts-of-canada" title="Federal Electoral Districts of Canada">Federal Electoral Districts of Canada</option>
+<option value="flood-disasters-in-canada" title="Flood Disasters in Canada">Flood Disasters in Canada</option>
+<option value="gas-chromatography-data-for-crude-oils-condensates-and-rock-extracts-from-canadian-and-selected-international-sedimentary-basins" title="Gas Chromatography Data for Crude Oils, Condensates and Rock Extracts From Canadian and Selected International Sedimentary Basins">Gas Chromatography Data for Crude Oils, Condensates and Rock Extracts From Canadian ...</option>
+<option value="geocarto-international" title="Geocarto International">Geocarto International</option>
+<option value="geological-association-of-canada-mineralogical-association-of-canada-joint-annual-meeting-programs-with-abstracts" title="Geological Association of Canada-Mineralogical Association of Canada, Joint Annual Meeting, Programs with Abstracts">Geological Association of Canada-Mineralogical Association of Canada, Joint Annual ...</option>
+<option value="geological-association-of-canada-special-paper" title="Geological Association of Canada, Special Paper">Geological Association of Canada, Special Paper</option>
+<option value="geological-society-of-america-field-guide" title="Geological Society of America, Field Guide">Geological Society of America, Field Guide</option>
+<option value="geological-survey-of-canada-annual-report" title="Geological Survey of Canada, Annual Report">Geological Survey of Canada, Annual Report</option>
+<option value="geological-survey-of-canada-a-series-map" title="Geological Survey of Canada, " a"="" series="" map"="">Geological Survey of Canada, "A" Series Map</option>
+<option value="geological-survey-of-canada-bulletin" title="Geological Survey of Canada, Bulletin">Geological Survey of Canada, Bulletin</option>
+<option value="geological-survey-of-canada-canadian-geoscience-map" title="Geological Survey of Canada, Canadian Geoscience Map">Geological Survey of Canada, Canadian Geoscience Map</option>
+<option value="geological-survey-of-canada-current-research" title="Geological Survey of Canada, Current Research">Geological Survey of Canada, Current Research</option>
+<option value="geological-survey-of-canada-current-research-online" title="Geological Survey of Canada, Current Research (Online)">Geological Survey of Canada, Current Research (Online)</option>
+<option value="geological-survey-of-canada-east-coast-basin-atlas-series" title="Geological Survey of Canada, East Coast Basin Atlas Series">Geological Survey of Canada, East Coast Basin Atlas Series</option>
+<option value="geological-survey-of-canada-economic-geology-report" title="Geological Survey of Canada, Economic Geology Report">Geological Survey of Canada, Economic Geology Report</option>
+<option value="geological-survey-of-canada-economic-geology-series" title="Geological Survey of Canada, Economic Geology Series">Geological Survey of Canada, Economic Geology Series</option>
+<option value="geological-survey-of-canada-geology-of-canada-series" title="Geological Survey of Canada, Geology of Canada Series">Geological Survey of Canada, Geology of Canada Series</option>
+<option value="geological-survey-of-canada-geophysical-series-map" title="Geological Survey of Canada, Geophysical Series Map">Geological Survey of Canada, Geophysical Series Map</option>
+<option value="geological-survey-of-canada-memoir" title="Geological Survey of Canada, Memoir">Geological Survey of Canada, Memoir</option>
+<option value="geological-survey-of-canada-miscellaneous-report" title="Geological Survey of Canada, Miscellaneous Report">Geological Survey of Canada, Miscellaneous Report</option>
+<option value="geological-survey-of-canada-multicoloured-geological-map" title="Geological Survey of Canada, Multicoloured Geological Map">Geological Survey of Canada, Multicoloured Geological Map</option>
+<option value="geological-survey-of-canada-national-earth-science-series-geological-atlas" title="Geological Survey of Canada, National Earth Science Series, Geological Atlas">Geological Survey of Canada, National Earth Science Series, Geological Atlas</option>
+<option value="geological-survey-of-canada-national-earth-science-series-gravity-bouguer-anomalies" title="Geological Survey of Canada, National Earth Science Series, Gravity - Bouguer Anomalies">Geological Survey of Canada, National Earth Science Series, Gravity - Bouguer Anomalies</option>
+<option value="geological-survey-of-canada-national-earth-science-series-gravity-free-air-anomalies" title="Geological Survey of Canada, National Earth Science Series, Gravity - Free Air Anomalies">Geological Survey of Canada, National Earth Science Series, Gravity - Free Air Anomalies</option>
+<option value="geological-survey-of-canada-national-earth-science-series-magnetic-anomaly-map" title="Geological Survey of Canada, National Earth Science Series, Magnetic Anomaly Map">Geological Survey of Canada, National Earth Science Series, Magnetic Anomaly Map</option>
+<option value="geological-survey-of-canada-open-file" title="Geological Survey of Canada, Open File">Geological Survey of Canada, Open File</option>
+<option value="geological-survey-of-canada-paper" title="Geological Survey of Canada, Paper">Geological Survey of Canada, Paper</option>
+<option value="geological-survey-of-canada-popular-geoscience" title="Geological Survey of Canada, Popular Geoscience">Geological Survey of Canada, Popular Geoscience</option>
+<option value="geological-survey-of-canada-preliminary-map" title="Geological Survey of Canada, Preliminary Map">Geological Survey of Canada, Preliminary Map</option>
+<option value="geological-survey-of-canada-report-of-progress" title="Geological Survey of Canada, Report of Progress">Geological Survey of Canada, Report of Progress</option>
+<option value="geological-survey-of-canada-scientific-presentation" title="Geological Survey of Canada, Scientific Presentation">Geological Survey of Canada, Scientific Presentation</option>
+<option value="geological-survey-of-canada-separate-report" title="Geological Survey of Canada, Separate Report">Geological Survey of Canada, Separate Report</option>
+<option value="geological-survey-of-canada-summary-report" title="Geological Survey of Canada, Summary Report">Geological Survey of Canada, Summary Report</option>
+<option value="geological-survey-of-canada-technical-note" title="Geological Survey of Canada, Technical Note">Geological Survey of Canada, Technical Note</option>
+<option value="geomatics-canada-bulletin" title="Geomatics Canada, Bulletin">Geomatics Canada, Bulletin</option>
+<option value="geomatics-canada-technical-note" title="Geomatics Canada, Technical Note">Geomatics Canada, Technical Note</option>
+<option value="geomatics-info-magazine-international" title="Geomatics Info Magazine International">Geomatics Info Magazine International</option>
+<option value="geoscape-canada-a-map-of-canadas-earth-materials" title="Geoscape Canada - A Map of Canada's Earth Materials">Geoscape Canada - A Map of Canada's Earth Materials</option>
+<option value="geoscience-canada" title="Geoscience Canada">Geoscience Canada</option>
+<option value="glacier-atlas-of-canada" title="Glacier Atlas of Canada">Glacier Atlas of Canada</option>
+<option value="global-map" title="Global Map">Global Map</option>
+<option value="great-lakes-mosaic-of-landsat-mss-images-canada" title="Great Lakes Mosaic of Landsat MSS Images, Canada">Great Lakes Mosaic of Landsat MSS Images, Canada</option>
+<option value="ground-control-database-canada" title="Ground Control Database, Canada">Ground Control Database, Canada</option>
+<option value="groundwater-program-newsletter" title="Groundwater Program Newsletter">Groundwater Program Newsletter</option>
+<option value="ieee-transactions-on-geoscience-and-remote-sensing-institute-of-electrical-and-electronics-engineers" title="IEEE Transactions on Geoscience and Remote Sensing (Institute of Electrical and Electronics Engineers)">IEEE Transactions on Geoscience and Remote Sensing (Institute of Electrical and Electronics ...</option>
+<option value="illinois-state-geological-survey-open-file-series" title="Illinois State Geological Survey, Open File Series">Illinois State Geological Survey, Open File Series</option>
+<option value="international-journal-of-remote-sensing" title="International Journal of Remote Sensing">International Journal of Remote Sensing</option>
+<option value="international-journal-on-hydropower-dams" title="International Journal on Hydropower &amp; Dams">International Journal on Hydropower &amp; Dams</option>
+<option value="international-map-of-the-world-11000000" title="International Map of the World 1:1,000,000">International Map of the World 1:1,000,000</option>
+<option value="journal-of-geophysical-research" title="Journal of Geophysical Research">Journal of Geophysical Research</option>
+<option value="journal-of-geophysical-research-d-atmospheres" title="Journal of Geophysical Research, D, Atmospheres">Journal of Geophysical Research, D, Atmospheres</option>
+<option value="journal-of-hydrology" title="Journal of Hydrology">Journal of Hydrology</option>
+<option value="journal-of-sedimentary-research" title="Journal of Sedimentary Research">Journal of Sedimentary Research</option>
+<option value="landsat-5-tm-data-over-major-canadian-cities" title="Landsat 5 TM Data over Major Canadian Cities">Landsat 5 TM Data over Major Canadian Cities</option>
+<option value="landsat-7-level-1-g" title="Landsat-7 Level 1-G">Landsat-7 Level 1-G</option>
+<option value="landsat-7-orthoimage" title="Landsat-7 Orthoimage">Landsat-7 Orthoimage</option>
+<option value="landsat-etm-mosaic-of-northern-canada" title="Landsat ETM+ mosaic of Northern Canada">Landsat ETM+ mosaic of Northern Canada</option>
+<option value="landsat-image-mosaic-of-canada" title="Landsat Image Mosaic of Canada">Landsat Image Mosaic of Canada</option>
+<option value="lithoprobe-abitibi-grenville" title="Lithoprobe, Abitibi-Grenville">Lithoprobe, Abitibi-Grenville</option>
+<option value="lithoprobe-alberta-basement" title="Lithoprobe, Alberta Basement">Lithoprobe, Alberta Basement</option>
+<option value="lithoprobe-arctic-fgp" title="Lithoprobe, Arctic FGP">Lithoprobe, Arctic FGP</option>
+<option value="lithoprobe-east-coast-fgp" title="Lithoprobe, East Coast FGP">Lithoprobe, East Coast FGP</option>
+<option value="lithoprobe-eastern-canadian-shield-onshore-offshore-transect" title="Lithoprobe, Eastern Canadian Shield Onshore-Offshore Transect">Lithoprobe, Eastern Canadian Shield Onshore-Offshore Transect</option>
+<option value="lithoprobe-great-lakes-international-multidisciplinary-program-on-crustal-evolution" title="Lithoprobe, Great Lakes International Multidisciplinary Program on Crustal Evolution">Lithoprobe, Great Lakes International Multidisciplinary Program on Crustal Evolution</option>
+<option value="lithoprobe-kapuskasing-structural-zone" title="Lithoprobe, Kapuskasing Structural Zone">Lithoprobe, Kapuskasing Structural Zone</option>
+<option value="lithoprobe-lithoprobe-east" title="Lithoprobe, Lithoprobe East">Lithoprobe, Lithoprobe East</option>
+<option value="lithoprobe-slave-northern-cordillera-lithospheric-evolution" title="Lithoprobe, Slave-Northern Cordillera Lithospheric Evolution">Lithoprobe, Slave-Northern Cordillera Lithospheric Evolution</option>
+<option value="lithoprobe-southern-cordillera" title="Lithoprobe, Southern Cordillera">Lithoprobe, Southern Cordillera</option>
+<option value="lithoprobe-trans-hudson-orogen" title="Lithoprobe, Trans-Hudson Orogen">Lithoprobe, Trans-Hudson Orogen</option>
+<option value="lithoprobe-west-coast" title="Lithoprobe, West Coast">Lithoprobe, West Coast</option>
+<option value="lithoprobe-western-superior" title="Lithoprobe, Western Superior">Lithoprobe, Western Superior</option>
+<option value="maritime-strategic-1987-land-use-database-slud-canada" title="Maritime Strategic (1987) Land Use Database (SLUD), Canada">Maritime Strategic (1987) Land Use Database (SLUD), Canada</option>
+<option value="modis-bi-directional-reflectance-properties-of-the-land-surface-2000-to-2004" title="MODIS bi-directional reflectance properties of the land surface, 2000 to 2004">MODIS bi-directional reflectance properties of the land surface, 2000 to 2004</option>
+<option value="multi-spectral-clear-sky-composites-of-modisterra-land-channels-b1-b7-over-canada-at-250m-spatial-resolution-and-10-day-intervals-since-march-2000-top-of-the-atmosphere-toa-data" title="Multi-Spectral Clear-Sky Composites of MODIS/Terra Land Channels (B1-B7) Over Canada at 250m Spatial Resolution and 10-Day Intervals Since March, 2000: Top of the Atmosphere (TOA) Data">Multi-Spectral Clear-Sky Composites of MODIS/Terra Land Channels (B1-B7) Over Canada ...</option>
+<option value="national-air-photo-library-index-map" title="National Air Photo Library Index Map">National Air Photo Library Index Map</option>
+<option value="national-atlas-of-canada" title="National Atlas of Canada">National Atlas of Canada</option>
+<option value="national-framework-canada-lands-administrative-boundaries-level-1" title="National Framework Canada Lands Administrative Boundaries Level 1">National Framework Canada Lands Administrative Boundaries Level 1</option>
+<option value="national-museum-of-canada-map" title="National Museum of Canada, Map">National Museum of Canada, Map</option>
+<option value="national-topographic-data-base-ntdb" title="National Topographic Data Base (NTDB)">National Topographic Data Base (NTDB)</option>
+<option value="natural-resources-canada-geofacts-new-series" title="Natural Resources Canada, Geofacts [new series]">Natural Resources Canada, Geofacts [new series]</option>
+<option value="natural-resources-canada-topographic-maps" title="Natural Resources Canada Topographic Maps">Natural Resources Canada Topographic Maps</option>
+<option value="ncad-north-american-conservation-areas-database" title="NCAD - North American Conservation Areas Database">NCAD - North American Conservation Areas Database</option>
+<option value="north-american-atlas-bathymetry" title="North American Atlas, Bathymetry">North American Atlas, Bathymetry</option>
+<option value="north-american-atlas-glaciers" title="North American Atlas, Glaciers">North American Atlas, Glaciers</option>
+<option value="north-american-atlas-hydrography" title="North American Atlas, Hydrography">North American Atlas, Hydrography</option>
+<option value="north-american-atlas-political-boundaries" title="North American Atlas, Political Boundaries">North American Atlas, Political Boundaries</option>
+<option value="north-american-atlas-populated-places" title="North American Atlas, Populated Places">North American Atlas, Populated Places</option>
+<option value="north-american-atlas-railroads" title="North American Atlas, Railroads">North American Atlas, Railroads</option>
+<option value="north-american-atlas-roads" title="North American Atlas, Roads">North American Atlas, Roads</option>
+<option value="north-american-atlas-sea-ice" title="North American Atlas, Sea Ice">North American Atlas, Sea Ice</option>
+<option value="nrcan-making-a-difference" title="NRCan Making a Difference">NRCan Making a Difference</option>
+<option value="ntdb-correction-matrices" title="NTDB Correction Matrices">NTDB Correction Matrices</option>
+<option value="observatories-branch-gravity-map-series" title="Observatories Branch, Gravity Map Series">Observatories Branch, Gravity Map Series</option>
+<option value="ontario-land-cover-national-scale-1250000-version" title="Ontario Land Cover - National-Scale (1:250,000) Version">Ontario Land Cover - National-Scale (1:250,000) Version</option>
+<option value="ontario-timber-inventory-oti-level-i-digital-data" title="Ontario Timber Inventory (OTI) Level-I Digital Data">Ontario Timber Inventory (OTI) Level-I Digital Data</option>
+<option value="paleo-environmental-records-of-climate-change" title="Paleo-environmental records of climate change">Paleo-environmental records of climate change</option>
+<option value="photogrammetric-engineering-and-remote-sensing" title="Photogrammetric Engineering and Remote Sensing">Photogrammetric Engineering and Remote Sensing</option>
+<option value="physics-in-canada" title="Physics in Canada">Physics in Canada</option>
+<option value="population-ecumene-census-division-boundary-file-2001-census-canada" title="Population Ecumene Census Division Boundary File (2001 Census), Canada">Population Ecumene Census Division Boundary File (2001 Census), Canada</option>
+<option value="potential-sediment-transport-by-wind-in-the-prairie-provinces" title="Potential Sediment Transport by Wind in the Prairie Provinces">Potential Sediment Transport by Wind in the Prairie Provinces</option>
+<option value="proceedings-of-spie-the-international-society-of-optical-engineering" title="Proceedings of SPIE, the international society of optical engineering">Proceedings of SPIE, the international society of optical engineering</option>
+<option value="quappelle-river-valley-land-planning-database-canada" title="Qu'Appelle River Valley Land Planning Database, Canada">Qu'Appelle River Valley Land Planning Database, Canada</option>
+<option value="radarsat-1-ortho-rectified-mosaic-of-canada" title="RADARSAT-1 Ortho-rectified Mosaic of Canada">RADARSAT-1 Ortho-rectified Mosaic of Canada</option>
+<option value="radarsat-1-ortho-rectified-mosaics-of-canada-lambert-conformal-conic-100-metres" title="RADARSAT-1 Ortho-rectified Mosaics of Canada, Lambert Conformal Conic, 100 Metres">RADARSAT-1 Ortho-rectified Mosaics of Canada, Lambert Conformal Conic, 100 Metres</option>
+<option value="remote-sensing-of-environment" title="Remote Sensing of Environment">Remote Sensing of Environment</option>
+<option value="remote-sensing-reviews" title="Remote Sensing Reviews">Remote Sensing Reviews</option>
+<option value="rock-eval-data-for-canadian-borehole-cuttings-core-and-outcrop-samples" title="Rock-Eval Data for Canadian Borehole Cuttings, Core and Outcrop Samples">Rock-Eval Data for Canadian Borehole Cuttings, Core and Outcrop Samples</option>
+<option value="seasat-sar-data-over-canada" title="SEASAT SAR Data over Canada">SEASAT SAR Data over Canada</option>
+<option value="seismological-research-letters" title="Seismological Research Letters">Seismological Research Letters</option>
+<option value="soil-capability-classification-for-forestry" title="Soil Capability Classification for Forestry">Soil Capability Classification for Forestry</option>
+<option value="soil-capability-classification-for-recreation" title="Soil Capability Classification for Recreation">Soil Capability Classification for Recreation</option>
+<option value="tactile-maps-of-canada-maps-for-education-the-tactile-atlas-of-canada" title="Tactile Maps of Canada-Maps for Education-The Tactile Atlas of Canada">Tactile Maps of Canada-Maps for Education-The Tactile Atlas of Canada</option>
+<option value="the-tactile-atlas-of-canada" title="The Tactile Atlas of Canada">The Tactile Atlas of Canada</option>
+<option value="toporama" title="Toporama">Toporama</option>
+<option value="urban-and-environmental-geology-of-the-st-lawrence-valley" title="Urban and Environmental Geology of the St. Lawrence Valley">Urban and Environmental Geology of the St. Lawrence Valley</option>
+<option value="urban-geology-of-the-national-capital-area-canada" title="Urban Geology of the National Capital Area, Canada">Urban Geology of the National Capital Area, Canada</option>
+</select>
